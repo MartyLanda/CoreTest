@@ -6,6 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
+<<<<<<< HEAD
             "program": "${workspaceRoot}/bin/Debug/<target-framework>/<project-name.dll>",
             "args": [],
             "cwd": "${workspaceRoot}",
@@ -41,6 +42,13 @@
             "sourceFileMap": {
                 "/Views": "${workspaceRoot}/Views"
             }
+=======
+            "program": "${workspaceRoot}/bin/Debug/netcoreapp1.0/CoreTest.dll",
+            "args": [],
+            "cwd": "${workspaceRoot}",
+            "externalConsole": false,
+            "stopAtEntry": false
+>>>>>>> 24b281ad5570382a360523150e0cc5e1d5d791c1
         },
         {
             "name": ".NET Core Attach",

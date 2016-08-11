@@ -6,7 +6,11 @@
   "dependencies": {
     "Microsoft.NETCore.App": {
       "type": "platform",
+<<<<<<< HEAD
       "version": "1.0.0"
+=======
+      "version": "1.0.0-rc2-3002702"
+>>>>>>> 24b281ad5570382a360523150e0cc5e1d5d791c1
     }
   },
   "frameworks": {
