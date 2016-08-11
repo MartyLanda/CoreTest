@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 {"inputs":["/home/martyl/Projects/CoreTest/project.json","/home/martyl/Projects/CoreTest/project.lock.json","/home/martyl/Projects/CoreTest/Program.cs"],"outputs":["/home/martyl/Projects/CoreTest/bin/Debug/netcoreapp1.0/CoreTest.dll","/home/martyl/Projects/CoreTest/bin/Debug/netcoreapp1.0/CoreTest.pdb","/home/martyl/Projects/CoreTest/bin/Debug/netcoreapp1.0/CoreTest.deps.json","/home/martyl/Projects/CoreTest/bin/Debug/netcoreapp1.0/CoreTest.runtimeconfig.json"],"buildArguments":{"version-suffix":null}}
-=======
-{"inputs":["/home/martyl/Programming/CoreTest/project.json","/home/martyl/Programming/CoreTest/project.lock.json","/home/martyl/Programming/CoreTest/Program.cs"],"outputs":["/home/martyl/Programming/CoreTest/bin/Debug/netcoreapp1.0/CoreTest.dll","/home/martyl/Programming/CoreTest/bin/Debug/netcoreapp1.0/CoreTest.pdb","/home/martyl/Programming/CoreTest/bin/Debug/netcoreapp1.0/CoreTest.deps.json","/home/martyl/Programming/CoreTest/bin/Debug/netcoreapp1.0/CoreTest.runtimeconfig.json"]}
->>>>>>> 24b281ad5570382a360523150e0cc5e1d5d791c1

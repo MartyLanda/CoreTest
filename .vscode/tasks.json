@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     // See https://go.microsoft.com/fwlink/?LinkId=733558
     // for the documentation about the tasks.json format
     "version": "0.1.0",
@@ -16,7 +15,6 @@
             // Show the output window only if unrecognized errors occur.
             "showOutput": "silent",
             // Use the standard MS compiler pattern to detect errors, warnings and infos
-=======
     "version": "0.1.0",
     "command": "dotnet",
     "isShellCommand": true,
@@ -28,7 +26,6 @@
                 "${workspaceRoot}/project.json"
             ],
             "isBuildCommand": true,
->>>>>>> 24b281ad5570382a360523150e0cc5e1d5d791c1
             "problemMatcher": "$msCompile"
         }
     ]
