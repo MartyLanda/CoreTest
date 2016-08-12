@@ -1,5 +1,5 @@
---temp-output:/home/martyl/Projects/CoreTest/obj/Debug/netcoreapp1.0/
---out:/home/martyl/Projects/CoreTest/bin/Debug/netcoreapp1.0/CoreTest.dll
+--temp-output:/home/martyl/Programming/CoreTest/obj/Debug/netcoreapp1.0/
+--out:/home/martyl/Programming/CoreTest/bin/Debug/netcoreapp1.0/CoreTest.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -86,4 +86,4 @@
 --reference:/home/martyl/.nuget/packages/System.Threading.Timer/4.0.1/ref/netstandard1.2/System.Threading.Timer.dll
 --reference:/home/martyl/.nuget/packages/System.Xml.ReaderWriter/4.0.11/ref/netstandard1.3/System.Xml.ReaderWriter.dll
 --reference:/home/martyl/.nuget/packages/System.Xml.XDocument/4.0.11/ref/netstandard1.3/System.Xml.XDocument.dll
-/home/martyl/Projects/CoreTest/Program.cs
+/home/martyl/Programming/CoreTest/Program.cs
